@@ -1,0 +1,131 @@
+[
+	{
+		"id":1,
+		"nombre": "Acond. DoyPack IO Camomilla 1000ml",
+		"precio": 1020,
+		"descripcion": "Descubre el arte del cuidado personal con el Acondicionador DoyPack IO Camomilla. Este producto incorpora esencias de camomila que nutren, revitalizan y dan suavidad a tu cabello.",
+		"tipoProducto": "cuidado_capilar",
+		"urlImg": "assets/img/cuidado_capilar/Acond. DoyPack IO Camomilla 1000ml.jpg"
+	},
+    {
+		"id":2,
+		"nombre": "Acond. DoyPack IO Hierbas 1000ml",
+		"precio": 1020,
+		"descripcion": "Vive una experiencia saludable con nuestro DoyPack IO Hierbas. Este producto único está especialmente formulado con una selección premium de hierbas, brindándote un sabor inigualable y beneficios para tu salud.",
+		"tipoProducto": "cuidado_capilar",
+		"urlImg": "assets/img/cuidado_capilar/Acond. DoyPack IO Hierbas 1000ml.jpg"
+	},
+    {
+		"id":3,
+		"nombre": "Shampoo DoyPack IO Huevo 1000ml",
+		"precio": 1020,
+		"descripcion": "Redefine tu cuidado del cabello con el Shampoo DoyPack IO Huevo. Nutre, revitaliza y protege tu cabello con intensidad gracias a su fórmula exclusiva con extractos de huevo.",
+		"tipoProducto": "cuidado_capilar",
+		"urlImg": "assets/img/cuidado_capilar/Shampoo DoyPack IO Huevo 1000ml.jpg"
+	},
+    {
+		"id":4,
+		"nombre": "Shampoo DoyPack IO Quillay 1000ml",
+		"precio": 1020,
+		"descripcion": "Transfórmate en la mejor versión de ti con nuestro Shampoo DoyPack IO Quillay. Único en su clase, desenvuelve la magia de la naturaleza para darle vida y vigor a tu cabello.",
+		"tipoProducto": "cuidado_capilar",
+		"urlImg": "assets/img/cuidado_capilar/Shampoo DoyPack IO Quillay 1000ml.jpg"
+	},
+	{
+		"id":5,
+		"nombre": "Jabon de Lavar barra Doña Tuti 170 grs",
+		"precio": 5000,
+		"descripcion": "Jabón para Lavar en Barra Doña Tuti, poder de limpieza.",
+		"tipoProducto": "cuidado_ropa",
+		"urlImg": "assets/img/cuidado_ropa/Jabon de Lavar barra Doña Tuti 170 grs.jpg"
+	},
+    {
+		"id":6,
+		"nombre": "Cloro Concentrado Briks 5 Lts",
+		"precio": 1899,
+		"descripcion": "Disfrute de un hogar impecablemente limpio con el cloro líquido Briks. Este potente limpiador ofrece una desinfección y limpieza completa, eliminando efectivamente bacterias y suciedad.",
+		"tipoProducto": "cuidado_ropa",
+		"urlImg": "assets/img/cuidado_ropa/Cloro Concentrado Briks 5 Lts.jpg"
+	},
+    {
+		"id":7,
+		"nombre": "Detergentes Briks Verde 5 Lts",
+		"precio": 3120,
+		"descripcion": "Nunca antes tus prendas habían lucido tan bien. Introducimos Detergentes Briks Verde de 5 litros, tú solución definitiva para un lavado profundo y aromatizante.",
+		"tipoProducto": "cuidado_ropa",
+		"urlImg": "assets/img/cuidado_ropa/Detergentes Briks Verde 5 Lts.jpg"
+	},
+    {
+		"id":8,
+		"nombre": "Suavizante Doña Tuti Aloe Vera 1000ml",
+		"precio": 1100,
+		"descripcion": "Suavizante Doña Tuti Aloe Vera 1000ml.",
+		"tipoProducto": "cuidado_ropa",
+		"urlImg": "assets/img/cuidado_ropa/Suavizante Doña Tuti Aloe Vera 1000ml.jpg"
+	},
+    {
+		"id":9,
+		"nombre": "Cloro Gel Briks Citrus 900ml",
+		"precio": 1050,
+		"descripcion": "Dile adiós a las bacterias con Cloro Gel Briks Citrus. Potenciado con un fresco aroma a cítricos, este producto de limpieza multifuncional ofrece una solución poderosa a tu alcance.",
+		"tipoProducto": "limpieza",
+		"urlImg": "assets/img/Limpieza/Cloro Gel Briks Citrus 900ml.jpg"
+	},
+    {
+		"id":10,
+		"nombre": "Lavaloza Verde Briks 2 Lts",
+		"precio": 1430,
+		"descripcion": "Revitaliza y da vida a tus platos con Lavaloza Verde Briks. Este detergente innovador no solo limpia a profundidad, sino que también cuida de tus manos, gracias a su formula exclusiva.",
+		"tipoProducto": "limpieza",
+		"urlImg": "assets/img/Limpieza/Lavaloza Verde Briks 2 Lts.jpg"
+	},
+    {
+		"id":11,
+		"nombre": "Trapero Humedo Doña Tuti Lavanda 40x60cm",
+		"precio": 1799,
+		"descripcion": "Trapero Humedo Doña Tuti Lavanda 40x60cm.",
+		"tipoProducto": "limpieza",
+		"urlImg": "assets/img/Limpieza/Trapero Humedo Doña Tuti Lavanda 40x60cm.jpg"
+	},
+    {
+		"id":12,
+		"nombre": "Lavalozas Briks Verde 5 Lts",
+		"precio": 3120,
+		"descripcion": "Como por arte de magia. Esta solución líquida es potente y eficaz, eliminando todo tipo de suciedad adherida en los platos y utensilios de cocina. Su fórmula única, biodegradable, respeta el medio ambiente, mientras garantiza la limpieza profunda que usted necesita.",
+		"tipoProducto": "limpieza",
+		"urlImg": "assets/img/Limpieza/Lavalozas Briks Verde 5 Lts.jpg"
+	},
+	{
+		"id":13,
+		"nombre": "Toalla de papel Nobby Fit",
+		"precio": 680,
+		"descripcion": "Toalla de papel Bobby Fit",
+		"tipoProducto": "papel",
+		"urlImg": "assets/img/papel/Toalla de papel Nobby Fit.jpg"
+	},
+    {
+		"id":14,
+		"nombre": "Servilleta Doña Tuti (Premium)",
+		"precio": 1290,
+		"descripcion": "300 Unidades por Paquete",
+		"tipoProducto": "papel",
+		"urlImg": "assets/img/papel/Servilleta Doña Tuti (Pack Familiar Premium).jpg"
+	},
+    {
+		"id":15,
+		"nombre": "Papel Higiénico Top One 20mts (Pack 12r)",
+		"precio": 2499,
+		"descripcion": "Papel Higiénico Top One 20 metros, pack de 12 rollos.",
+		"tipoProducto": "papel",
+		"urlImg": "assets/img/papel/Papel Higiénico Top One 20mts (Pack 12r).jpg"
+	},
+    {
+		"id":16,
+		"nombre": "Toalla Mediana HiperMax XL Doble Hoja",
+		"precio": 2580,
+		"descripcion": "Toalla HiperMax XL Doble Hoja 100 Mts",
+		"tipoProducto": "papel",
+		"urlImg": "assets/img/papel/Toalla Mediana HiperMax XL Doble Hoja.jpg"
+	}
+
+]
